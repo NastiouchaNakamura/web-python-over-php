@@ -1,0 +1,1 @@
+print("Le serveur virtuel Python est fonctionnel")
